@@ -1,4 +1,38 @@
-.venv/
+# Python
 __pycache__/
-runtime.txt
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+ENV/
+.venv/
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment variables
 .env
+
+# Logs and temporary files
+logs/
+tmp/
+*.log
+
+# Data files
+*.sqlite3
+*.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Runtime
+runtime.txt
