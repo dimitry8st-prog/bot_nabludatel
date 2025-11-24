@@ -27,12 +27,9 @@ tmp/
 *.sqlite3
 *.db
 
-# Jupyter Notebook
+# Jupyter Noruntime.tebook
 .ipynb_checkpoints
 
 # OS generated files
 .DS_Store
-Thumbs.db
 
-# Runtime
-runtime.txt
